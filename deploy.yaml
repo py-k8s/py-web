@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: py-web
-        image: py-web:v1.0.0
+        image: awker/py-web:v1.0.0
         ports:
         - containerPort: 80
